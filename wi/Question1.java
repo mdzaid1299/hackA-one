@@ -1,4 +1,4 @@
-package wife;
+package wi;
 //withdrawl 0.50%
 //deposit 0.25% amount charged as processing fee
 // if two successive transactions are of different type
